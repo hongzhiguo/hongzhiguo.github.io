@@ -1,3 +1,11 @@
+<!--fixed-top-bar
+[navbar]
+* [Home](index.html)
+* [Page1](page1.html)
+* [Page2](page1.html)
+[/navbar]
+-->
+
 <img src=hg.jpg width=150 height=190 />Hongzhi Guo 
 
 ## Welcome to GitHub Pages
