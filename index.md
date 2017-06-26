@@ -12,7 +12,6 @@ Fax: TBD
 
 ---
 ## **Home** | **Research** | **Teaching** | **Publications**
----
 
 ### About me
 
