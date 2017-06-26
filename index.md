@@ -1,4 +1,4 @@
-**Home** | **Research** | **Teaching** | **Publications**
+
 
 <img src=hg.jpg width=150 height=190 ALIGN="left" /> **Hongzhi Guo**  
 Assistant Professor  
@@ -10,7 +10,7 @@ Office: TBD
 Phone: TBD  
 Fax: TBD  
 
-## Welcome to GitHub Pages
+## **Home** | **Research** | **Teaching** | **Publications**
 
 You can use the [editor on GitHub](https://github.com/hongzhiguo/hongzhiguo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
