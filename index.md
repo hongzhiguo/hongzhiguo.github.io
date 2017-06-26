@@ -1,4 +1,4 @@
-| <img src="hg.jpg" alt="Drawing" style="width: 10px;"/> | Hongzhi Guo |
+| ![Image](hg.jpg)| Hongzhi Guo |
 
 ## Welcome to GitHub Pages
 
