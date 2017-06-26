@@ -1,4 +1,4 @@
-| ![HG](/hg.jpg) | Hongzhi Guo |
+| ![HG](/hg.jpg|width=100) | Hongzhi Guo |
 
 ## Welcome to GitHub Pages
 
