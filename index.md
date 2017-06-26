@@ -1,5 +1,3 @@
-
-
 <img src="https://hongzhiguo.github.io/hg.jpg" width=150 height=190 ALIGN="left" /> **Hongzhi Guo**  
 Assistant Professor  
 Engineering Department  
