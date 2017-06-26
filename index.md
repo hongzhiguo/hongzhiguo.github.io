@@ -9,7 +9,7 @@ Phone: TBD
 Fax: TBD  
 
 ---
-## **Home** | **Research** | **Teaching** | **Publications**
+## **[Home](https://hongzhiguo.github.io/index.md)** | **Research** | **Teaching** | **[Publications](https://hongzhiguo.github.io/publications.md)**
 
 ### About me
 
