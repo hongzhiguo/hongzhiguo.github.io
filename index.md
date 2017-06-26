@@ -1,4 +1,4 @@
-<img src=hg.jpg width=600 height=100 />Hongzhi Guo 
+<img src=hg.jpg width=100 height=100 />Hongzhi Guo 
 
 ## Welcome to GitHub Pages
 
