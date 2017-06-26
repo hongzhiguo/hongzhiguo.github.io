@@ -16,10 +16,8 @@ Fax: TBD
 ### About me
 
 
-Hongzhi Guo received his Ph.D degree in electrical engineering from State University of New York at Buffalo under the supervision of Prof. [Zhi Sun](http://www.acsu.buffalo.edu/~zhisun/) in 2017.
+Hongzhi Guo received his Ph.D degree in electrical engineering from State University of New York at Buffalo under the supervision of Prof. [Zhi Sun](http://www.acsu.buffalo.edu/~zhisun/) in 2017. He received his M.S. degree in electrical engineering from Columbia University in 2013. He received the Best Demo Award in IEEE International Conference on Computer Communications (Infocom) 2017. His research aims to design efficient and reliable cyber physical systems in extreme and complex environments, such as underground, underwater, intra-body, and many others. His research interests range from physical wireless device design to wireless networking, including metamaterial antenna design, magnetic induction communication and networking, electromagnetic wave propagation, nano-biosensing, Teraherz communication and networking, networked control system, and control system security.  
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
