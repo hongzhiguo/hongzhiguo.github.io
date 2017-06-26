@@ -25,8 +25,3 @@ Hongzhi Guo received his Ph.D degree in electrical engineering from State Univer
 1. National Scholarship, by Ministry of Education of China. 2009
 1. Outstanding Student Award, by Shandong University of Sci & Tech. 2009,2011
 1. Uroica Scholarship, by Uroica Co. Ltd. 2008
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
