@@ -1,4 +1,4 @@
-<img src="https://hongzhiguo.github.io/hg.jpg" width=150 height=190 ALIGN="left" /> **Hongzhi Guo**  
+![Image of Yaktocat alt <](https://hongzhiguo.github.io/hg.jpg)**Hongzhi Guo**  
 Assistant Professor  
 Engineering Department  
 University of Southern Maine  
