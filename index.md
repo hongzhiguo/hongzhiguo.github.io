@@ -1,12 +1,14 @@
-<!--fixed-top-bar
-[navbar]
-* [Home](index.html)
-* [Page1](page1.html)
-* [Page2](page1.html)
-[/navbar]
--->
+**Home** | **Research** | **Teaching** | **Publications**
 
-<img src=hg.jpg width=150 height=190 />Hongzhi Guo 
+<img src=hg.jpg width=150 height=190 ALIGN="left" /> **Hongzhi Guo**  
+Assistant Professor  
+Engineering Department  
+University of Southern Maine  
+
+Email: hongzhi.guo@maine.edu
+Office: TBD  
+Phone: TBD  
+Fax: TBD  
 
 ## Welcome to GitHub Pages
 
