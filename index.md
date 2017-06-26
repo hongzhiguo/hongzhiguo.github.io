@@ -1,4 +1,4 @@
-![Image alt <](hg.jpg  =100x20) Hongzhi Guo 
+![Image alt <](hg.jpg){ width: 200px; } Hongzhi Guo 
 
 ## Welcome to GitHub Pages
 
