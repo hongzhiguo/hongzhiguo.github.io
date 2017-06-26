@@ -15,9 +15,9 @@ Fax: TBD
 
 ### About me
 
-```bio
+---
 Hongzhi Guo received his Ph.D degree in electrical engineering from State University of New York at Buffalo under the supervision of Prof. [Zhi Sun](http://www.acsu.buffalo.edu/~zhisun/) in 2017.
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
