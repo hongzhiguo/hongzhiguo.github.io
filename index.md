@@ -9,13 +9,13 @@ Email: hongzhi.guo@maine.edu
 Office: TBD  
 Phone: TBD  
 Fax: TBD  
-
+---
 ## **Home** | **Research** | **Teaching** | **Publications**
-
+---
 
 ### About me
 
----
+
 Hongzhi Guo received his Ph.D degree in electrical engineering from State University of New York at Buffalo under the supervision of Prof. [Zhi Sun](http://www.acsu.buffalo.edu/~zhisun/) in 2017.
 
 
