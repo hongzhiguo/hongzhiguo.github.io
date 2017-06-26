@@ -1,4 +1,4 @@
-| ![Image](hg.jpg)| Hongzhi Guo |
+![Image alt <](hg.jpg) Hongzhi Guo 
 
 ## Welcome to GitHub Pages
 
