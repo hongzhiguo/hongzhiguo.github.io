@@ -195,7 +195,7 @@ strong {
 }
 
 
-h1, h3 {
+h1,h2, h3 {
     /* color: #b0b366; /* yellow */
     color: #5C7996; /* blue */
 	margin-top: 0.7em;
@@ -215,7 +215,7 @@ h2 {
     font-weight: bold;
 	padding-top: 0.8em;
     line-height: 15px;
-    color: #444;
+    #color: #444;
 }
 
 h2 + h3 {
